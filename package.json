@@ -1,0 +1,13 @@
+{
+  "name": "random-geojson-data",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "test": "main "
+  },
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@turf/random": "^7.1.0"
+  }
+}
